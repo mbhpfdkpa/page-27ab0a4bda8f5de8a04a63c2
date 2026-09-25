@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.20r8jbl.cn/sitemap.xml
